@@ -1,0 +1,12 @@
+[submodule "persistence"]
+	path = persistence
+	url = git@github.com:Throzendar/sius-p12-persistence.git
+[submodule "gateway"]
+	path = gateway
+	url = git@github.com:Throzendar/sius-p12-gateway.git
+[submodule "server-discovery"]
+	path = server-discovery
+	url = git@github.com:Throzendar/sius-p12-discovery-server.git
+[submodule "tweet-miner"]
+	path = tweet-miner
+	url = git@github.com:Throzendar/sius-p12-tweet-miner.git
