@@ -18,10 +18,11 @@
   </properties>
 
   <modules>
+    <module>gateway</module>
+    <module>persistence</module>
     <module>server-discovery</module>
     <module>tweet-miner</module>
-    <module>persistence</module>
-    <module>gateway</module>
+    <module>tweet-sentiment</module>
   </modules>
 
   <dependencyManagement>

@@ -10,3 +10,6 @@
 [submodule "tweet-miner"]
 	path = tweet-miner
 	url = git@github.com:Throzendar/sius-p12-tweet-miner.git
+[submodule "tweet-sentiment"]
+	path = tweet-sentiment
+	url = git@github.com:Throzendar/sius-p12-tweet-sentiment.git
